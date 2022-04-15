@@ -1,4 +1,4 @@
-# Função Lambda para envio de e-mail
+# Função Lambda para envio de e-mail com SendGrid
 
 ## Para configurar basta seguir os passos a seguir:
 - Configurar as variáveis de ambiente necessárias com base no arquivo .env.example
